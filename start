@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Audrina's School Week of Food </title>
+</head>
+
+<body>
+
+<style>
+h1 {color:##f9c1ce;}
+p {color:#f9c1ce;}
+body {background:#a36752;}
+</style>
+<h1 style="font-family: Lora;"> Day 1 </h1>
+<p> Morning: <i> __ </i> </p>
+<p> Snack: <i> __ </i> </p>
+<p> Day 3: <i> __ </i> </p>
+<p> Day 4: <i> __ </i> </p>
+<p> Day 5: <i> __ </i> </p>
+
+
+
+</body>
+
+</html>
