@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Blueberry Muffins</title>
+<title>BLUEBERRY MUFFINS</title>
 <style>
 body {background:#FFF2A8; text-align:center;}
 h1 {color:#2356A3; font-family:Allura;}
