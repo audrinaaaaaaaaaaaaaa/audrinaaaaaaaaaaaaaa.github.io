@@ -39,12 +39,14 @@ p {color:#2356A3;}
 <h2>PHOTOS</h2>
 
 <img width="1179" height="588" alt="72C87C34-6DA5-4D3C-9B0D-FCD4BBB2DE6D" src="https://github.com/user-attachments/assets/21669508-a94c-4a6a-be50-62d44d9263ec" />
-
 <img width="1179" height="1520" alt="IMG_8792" src="https://github.com/user-attachments/assets/8ab9a53c-5c27-41e8-8117-52c9c8086f2f" />
 
 <h2>RATING:</h2>
 
 <p>8/10; Almond flavor is really strong! Add extra monk fruit, vanilla, and a little bit more blueberries to mask it better! Best served with ice cream or maple syrup.</p>
+
+<h2>LINK:</h2>
+<a href="https://www.wholesomeyum.com/recipes/keto-low-carb-paleo-blueberry-muffins-recipe-almond-flour/">Visit This Site For More Details</a>
 
 </body>
 </html>
