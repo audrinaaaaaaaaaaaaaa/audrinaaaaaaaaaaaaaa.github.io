@@ -38,9 +38,9 @@ p {color:#2356A3;}
 
 <h2>PHOTOS</h2>
 
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=39df0a227d&attid=0.0.2&permmsgid=msg-a:r587768842298277855&th=1a0e3a75a045fdf1&view=fimg&fur=ip&permmsgid=msg-a:r587768842298277855&sz=s0-l75-ft&attbid=ANGjdJ_4lhIpe-NQzbzno6pLa3aHapDYxFlhHiIBddJ1KY0auq2SXB9V5p-ihoW6gNbq7gCfxAXjvMzZj6veanhlVlii1AJ0pUofXp_AsjAa9tmxArkgbXG2lnLe8KI&disp=emb&realattid=1a0e3a753844cc91be04&zw" alt="Blueberry muffins">
+<img width="1179" height="588" alt="72C87C34-6DA5-4D3C-9B0D-FCD4BBB2DE6D" src="https://github.com/user-attachments/assets/21669508-a94c-4a6a-be50-62d44d9263ec" />
 
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=39df0a227d&attid=0.0.1&permmsgid=msg-a:r587768842298277855&th=1a0e3a75a045fdf1&view=fimg&fur=ip&permmsgid=msg-a:r587768842298277855&sz=s0-l75-ft&attbid=ANGjdJ-mqQSLiUcvQA-sqyW2AddzLIsrIzrXoUzaI7Wk8qyjo55HFMYa9vf7w-PU1nPMZxU0Zky1ts3zuh0Iz4Yhk_qtQhAM-TmqeekalGaq1vfQgv0uRKjzSi8YHl0&disp=emb&realattid=1a0e3a7536fe83e463f3&zw" alt="Blueberry muffins">
+<img width="1179" height="1520" alt="IMG_8792" src="https://github.com/user-attachments/assets/8ab9a53c-5c27-41e8-8117-52c9c8086f2f" />
 
 <h2>RATING:</h2>
 
