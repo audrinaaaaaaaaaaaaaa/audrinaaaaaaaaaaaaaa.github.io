@@ -3,8 +3,9 @@
 <title>Blueberry Muffins</title>
 <style>
 body {background:#FFF2A8; text-align:center;}
-h1 {color:#2356A3; font-family:cursive;}
-h2 {color:#2356A3; font-family:cursive;}
+h1 {color:#2356A3; font-family:Allura;}
+h2 {color:#2356A3; font-family:Allura;}
+title {color:#2356A3; font-family:Allura;}
 p {color:#2356A3;}
 </style>
 </head>
